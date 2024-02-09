@@ -154,7 +154,7 @@ ul a.nav-contact:hover {
     min-height: 90vh;
     margin: auto;
     background-size: cover;
-    background: url('../assets/image/jumb.jpg');
+    /* background: url('../assets/image/1.jpg'); */
     background-repeat: no-repeat;
     background-position: center;
 }
@@ -621,7 +621,7 @@ footer {
     }
 
     .jumb {
-        background: url('../assets/image/jumb-1400.jpg');
+        /* background: url('../assets/image/jumb-1400.jpg'); */
         background-repeat: no-repeat;
         min-height: 55vh;
     }
@@ -678,7 +678,7 @@ footer {
     }
 
     .jumb {
-        background: url('../assets/image/jumb-990.jpg');
+        /* background: url('../assets/image/jumb-990.jpg'); */
         background-repeat: no-repeat;
         min-height: 50vh;
     }
@@ -783,7 +783,7 @@ footer {
     }
 
     .jumb {
-        background: url('../assets/image/jumb-760.jpg');
+        /* background: url('../assets/image/jumb-760.jpg'); */
         background-repeat: no-repeat;
         min-height: 40vh;
     }
@@ -916,7 +916,7 @@ footer {
 
     .jumb {
 
-        background: url('../assets/image/jumb-476t.jpg');
+        /* background: url('../assets/image/jumb-476t.jpg'); */
         background-repeat: no-repeat;
         align-items: end;
     }
